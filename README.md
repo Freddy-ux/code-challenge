@@ -21,7 +21,7 @@ belongs to a Restaurant and belongs to a Pizza Endpoints The API provides the fo
 
 GET /restaurants: Get a list of all restaurants. GET /restaurants/id Get detailed information about a specific restaurant. DELETE /restaurants/id Delete a restaurant by its ID. GET /pizzas: Get a list of all pizzas. POST /restaurant_pizzas: Create a new restaurant-pizza association. Please refer to the original requirements for the expected request and response formats of each endpoint.
 
-License
+Lisence
 This project is licensed under the MIT License.
 
 Author : Alfred Wambua 
